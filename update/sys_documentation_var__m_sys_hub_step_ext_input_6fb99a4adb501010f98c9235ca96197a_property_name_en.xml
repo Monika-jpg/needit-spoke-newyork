@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="property_name" label="property_name" language="en" table="var__m_sys_hub_step_ext_input_6fb99a4adb501010f98c9235ca96197a">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>property_name</element>
+            <help/>
+            <hint/>
+            <label>property_name</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_input_6fb99a4adb501010f98c9235ca96197a</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-22 09:44:52</sys_created_on>
+            <sys_id>6bb9da4adb501010f98c9235ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>property_name</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_465966_needit_sp">9d939a02db101010f98c9235ca96196d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">9d939a02db101010f98c9235ca96196d</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_input_6fb99a4adb501010f98c9235ca96197a_property_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-22 09:44:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
